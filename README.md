@@ -36,7 +36,7 @@
 <NOte> After 300 iterations, he displayed significant better performance than before (I thought...).
 
 _Here's the output:_    
-source: 10.43; CI 6.90-15.75    
+source: 10.43; 95%CI 6.90-15.75    
 output:  10.00[  0.99 10.75]<pad>    
 source: 2.6, 95% CI: 1.8-3.7    
 output:    2.6[   1.8   3.7]<pad>    
