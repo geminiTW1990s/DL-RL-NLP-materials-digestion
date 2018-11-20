@@ -2,9 +2,9 @@ from keras.layers import Bidirectional, Concatenate, Permute, Dot, Input, LSTM, 
 from keras.layers import RepeatVector, Dense, Activation, Lambda
 from keras.optimizers import Adam
 from keras.models import load_model, Model
-from utils import *
+from utils_1120 import *
 
-fname = 'abstsegs_regex_or.csv'
+fname = 'abstsegs_regex_or_1120.csv'
 dataset, human_vocab, machine_vocab, inv_machine_vocab = load_data(fname)
 
 Tx = 30 
