@@ -36,17 +36,17 @@
 <NOte> After 300 iterations, he displayed significant better performance than before (I thought...).
 
 _Here's the output:_
-source: 10.43; CI 6.90-15.75
-output:  10.00[  0.99 10.75]<pad>
-source: 2.6, ___ CI: 1.8-3.7
-output:    2.6[   1.8   3.7]<pad>
-source: 0.99, ___ CI 0.74-1.32
-output:   0.99[  0.74  1.32]<pad>
-source: 1.09; ___ CI 0.88 to 1.34
-output:   1.09[  0.88  1.44]<pad>
-source: 0.84, ___ CI 0.43-3.85
-output:   0.44[  0.43  3.55]<pad>
-source: 1.76; ___ CI, 1.45-2.13
-output:   1.76[  1.45  2.11]<pad>
+source: 10.43; CI 6.90-15.75    
+output:  10.00[  0.99 10.75]<pad>    
+source: 2.6, ___ CI: 1.8-3.7    
+output:    2.6[   1.8   3.7]<pad>    
+source: 0.99, ___ CI 0.74-1.32    
+output:   0.99[  0.74  1.32]<pad>    
+source: 1.09; ___ CI 0.88 to 1.34    
+output:   1.09[  0.88  1.44]<pad>    
+source: 0.84, ___ CI 0.43-3.85    
+output:   0.44[  0.43  3.55]<pad>    
+source: 1.76; ___ CI, 1.45-2.13    
+output:   1.76[  1.45  2.11]<pad>    
 
 
