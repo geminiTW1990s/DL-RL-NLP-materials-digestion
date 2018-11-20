@@ -20,3 +20,14 @@
 
 ## RL in NLP
 #### Reference: Lecture 16 from "CS224n: Natural Language Processing with Deep Learning" of Stanford University
+
+
+# Implementations
+## Successfully run Coursera example
+#### NMT_dateformat.py and pre-trained the weights nmt_dateformat_50ep_weights.h5
+
+## Applying LSTMs and attention networks for information extraction from Pubmed abstracts
+#### preprocess.py - the network part implementation
+#### utils.py - storing functions mostly used during data-preprocessing
+#### Trouble shooting - 
+&nbsq;&nbsq;&nbsq;&nbsq;Currently, the model was runnable but generating results with low accuracy. Excessive noise within input was impressed. The  next step, I'll try to implement regular expressions and reduce the noice of input. Hopefully, it'll somewhat improve the accuracy of prediction.
