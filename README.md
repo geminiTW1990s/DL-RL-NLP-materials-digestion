@@ -30,4 +30,6 @@
 #### preprocess.py - the network part implementation
 #### utils.py - storing functions mostly used during data-preprocessing
 #### Trouble shooting - 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, the model was runnable but generating results with low accuracy. Excessive noise within input was impressed. The  next step, I'll try to implement regular expressions and reduce the noice of input. Hopefully, it'll somewhat improve the accuracy of prediction.
+11/18: Currently, the model was runnable but generating results with low accuracy. Excessive noise within input was impressed. The  next step, I'll try to implement regular expressions and reduce the noice of input. Hopefully, it'll somewhat improve the accuracy of prediction.
+
+11/20: I've add the preprocess work using regular expressions. And my naughty network finally learn the pattern of output over 50 iterations! Although the accuracy was still low, but anyway, it's a huge advance for me!
