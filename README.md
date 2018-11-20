@@ -30,4 +30,4 @@
 #### preprocess.py - the network part implementation
 #### utils.py - storing functions mostly used during data-preprocessing
 #### Trouble shooting - 
-&nbsq;&nbsq;&nbsq;&nbsq;Currently, the model was runnable but generating results with low accuracy. Excessive noise within input was impressed. The  next step, I'll try to implement regular expressions and reduce the noice of input. Hopefully, it'll somewhat improve the accuracy of prediction.
+&nbsp;&nbsp;&nbsp;&nbsp;Currently, the model was runnable but generating results with low accuracy. Excessive noise within input was impressed. The  next step, I'll try to implement regular expressions and reduce the noice of input. Hopefully, it'll somewhat improve the accuracy of prediction.
